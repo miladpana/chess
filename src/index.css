@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wk {
+    background-image: url("./assets/wk.png")
+}
+
+.wq {
+    background-image: url("./assets/wq.png")
+}
+
+.wb {
+    background-image: url("./assets/wb.png")
+}
+
+.wn {
+    background-image: url("./assets/wn.png")
+}
+
+.wr {
+    background-image: url("./assets/wr.png")
+}
+
+.wp {
+    background-image: url("./assets/wp.png")
+}
+
+.bk {
+    background-image: url("./assets/bk.png")
+}
+
+.bq {
+    background-image: url("./assets/bq.png")
+}
+
+.bb {
+    background-image: url("./assets/bb.png")
+}
+
+.bn {
+    background-image: url("./assets/bn.png")
+}
+
+.br {
+    background-image: url("./assets/br.png")
+}
+
+.bp {
+    background-image: url("./assets/bp.png")
+}
+
+.board {
+    background-image: url("./assets/board.png")
+}
